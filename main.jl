@@ -57,7 +57,9 @@ function main()
     elseif(operation ==5)
       result = power(entries[1],entries[2])
     end
-    
+    println()
     println("Resultado: ", result)
+    println()
+    println()
   end
 end
